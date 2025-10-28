@@ -1,2 +1,4 @@
-# CodeChef-POTD-Daily-Challenge
-🚀 Daily solutions to CodeChef Problem of the Day (POTD) — consistently sharpening problem-solving, logic, and competitive programming skills in Java
+# 💡 One problem a day keeps the weak logic away!
+
+
+Track of my journey solving CodeChef’s daily challenges — from brute force to optimized elegance.
